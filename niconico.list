@@ -1,6 +1,6 @@
 # > niconico
-USER-AGENT,Niconico*,PROXY
-DOMAIN-SUFFIX,dmc.nico,PROXY
-DOMAIN-SUFFIX,nicovideo.jp,PROXY
-DOMAIN-SUFFIX,nimg.jp,PROXY
-DOMAIN-SUFFIX,socdm.com,PROXY
+USER-AGENT,Niconico*,niconico
+DOMAIN-SUFFIX,dmc.nico,niconico
+DOMAIN-SUFFIX,nicovideo.jp,niconico
+DOMAIN-SUFFIX,nimg.jp,niconico
+DOMAIN-SUFFIX,socdm.com,niconico
