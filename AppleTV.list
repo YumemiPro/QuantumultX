@@ -1,0 +1,5 @@
+# > Apple TV
+DOMAIN-SUFFIX,tv.apple.com,PROXY
+DOMAIN,hls.itunes.apple.com,PROXY
+DOMAIN,hls-amt.itunes.apple.com,PROXY
+DOMAIN,play-edge.itunes.apple.com,PROXY
