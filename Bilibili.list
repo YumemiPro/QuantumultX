@@ -1,5 +1,5 @@
 # > bilibili
-DOMAIN-SUFFIX,biliapi.net,PROXY
-DOMAIN,api.bilibili.com,PROXY
-DOMAIN,www.bilibili.com,PROXY
-DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN,api.bilibili.com,Bilibili
+DOMAIN,www.bilibili.com,Bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,Bilibili
