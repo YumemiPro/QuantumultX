@@ -1,5 +1,5 @@
 # > Netease Cloud Music
-DOMAIN-SUFFIX,music.163.com,PROXY
-DOMAIN-SUFFIX,music.126.net,PROXY
-DOMAIN,mam.netease.com,PROXY
-DOMAIN,api.iplay.163.com,PROXY
+DOMAIN-SUFFIX,music.163.com,NetEase
+DOMAIN-SUFFIX,music.126.net,NetEase
+DOMAIN,mam.netease.com,NetEase
+DOMAIN,api.iplay.163.com,NetEase
